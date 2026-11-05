@@ -1,0 +1,34 @@
+# MoSCoW – Portfolio Website
+
+## Must Have (Moet aanwezig zijn)
+- Een werkende homepagina.
+- Een pagina over mezelf.
+- Een interviewpagina met minimaal 5 vragen.
+- Een projectenpagina.
+- Minimaal één afbeelding en één video.
+- Een contactformulier met minimaal 3 verschillende inputvelden.
+- Een tabel met minimaal 3 rijen aan gegevens.
+- Een navigatiemenu waarmee je tussen de pagina's kunt gaan.
+- Een werkende GitHub-link.
+
+## Should Have (Zou aanwezig moeten zijn)
+- Een mooie en overzichtelijke vormgeving.
+- Een website die goed werkt op mobiele telefoons.
+- Duidelijke teksten en titels op elke pagina.
+- Een footer met contactgegevens.
+- Een overzicht van mijn vaardigheden.
+
+## Could Have (Zou eventueel aanwezig kunnen zijn)
+- Extra afbeeldingen van mijn projecten.
+- Een animatie of hover-effect.
+- Een LinkedIn-link.
+- Een extra pagina met mijn hobby's en interesses.
+
+## Won't Have (Komt niet in deze versie)
+- Een inlogsysteem voor bezoekers.
+- Een database om gegevens op te slaan.
+- Een uitgebreid reactiesysteem.
+- Een webshop of betaalsysteem.
+
+## Conclusie
+Met deze MoSCoW-verdeling weet ik welke onderdelen het belangrijkst zijn voor mijn portfolio. Eerst zorg ik ervoor dat alle Must Have-onderdelen werken. Daarna kan ik de andere onderdelen verbeteren of toevoegen.

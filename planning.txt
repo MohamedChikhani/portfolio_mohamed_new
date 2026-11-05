@@ -1,0 +1,31 @@
+PLANNING – PORTFOLIO WEBSITE
+
+Week 1: Project starten  
+Een idee kiezen voor mijn website en een sitemap maken.
+
+Week 2: Wireframe  
+Een ontwerp maken van alle pagina's van mijn website.
+
+Week 3: HTML  
+De pagina's Home, Over mij, Interview en Project maken.
+
+Week 4: CSS  
+Mijn website vormgeven met CSS.
+
+Week 5: Inhoud toevoegen  
+Afbeeldingen, video's, een tabel en een contactformulier toevoegen.
+
+Week 6: MoSCoW  
+Bepalen welke onderdelen van mijn website het belangrijkst zijn.
+
+Week 7: Testen  
+Mijn HTML en CSS controleren op fouten.
+
+Week 8: Eindversie  
+Mijn website verbeteren en klaarmaken voor de inlevering.
+
+DOEL:
+Mijn doel is om een complete en overzichtelijke portfolio website te maken met HTML en CSS.
+
+RESULTAAT:
+Aan het einde van het project wil ik een werkende website hebben waarop bezoekers meer over mij, mijn opleiding, mijn interview en mijn projecten kunnen lezen.
